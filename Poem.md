@@ -1,7 +1,7 @@
 #A Party of Lovers
 
 _Pensive_ they sit, and roll their languid eyes,
-* Nibble their toast, and cool their tea with sighs,
+- Nibble their toast, and cool their tea with sighs,
 * Or else forget the purpose of the night,
 * Forget their tea, forget their appetite.
 * See with cross'd arms they sit, ah! happy crew,
@@ -21,7 +21,7 @@ _Pensive_ they sit, and roll their languid eyes,
 * Where may your tailor live?'    'I may not tell.
 * O pardon me, I'm absent now and then.
 * Where might my tailor live?    I say again
-* I cannot tell, _let me no more_ be teaz'd,
+* I cannot tell, let me no more be teaz'd,
 * He lives in Wapping, might live where he pleas'd.'
 
 *John Keats*
