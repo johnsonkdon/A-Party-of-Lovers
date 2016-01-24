@@ -1,4 +1,4 @@
-#A Party of Lovers
+*#A Party of Lovers*
 
 _Pensive_ they sit, and roll their languid eyes,
 - Nibble their toast, and cool their tea with sighs,
@@ -25,7 +25,7 @@ _Pensive_ they sit, and roll their languid eyes,
 * He lives in Wapping, might live where he pleas'd.'
 
 ```
-*John Keats*
+John Keats
 ```
 [Visit the Poem here](http://www.public-domain-poetry.com/john-keats/party-of-lovers-6247)
 
