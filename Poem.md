@@ -21,7 +21,7 @@ _Pensive_ they sit, and roll their languid eyes,
 * Where may your tailor live?'    'I may not tell.
 * O pardon me, I'm absent now and then.
 * Where might my tailor live?    I say again
-* **I cannot tell, _let me no more_ be teaz'd,**
+* I cannot tell, _let me no more_ be teaz'd,
 * He lives in Wapping, might live where he pleas'd.'
 
 *John Keats*
