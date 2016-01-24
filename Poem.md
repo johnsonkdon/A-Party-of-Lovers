@@ -1,7 +1,7 @@
-*#A Party of Lovers*
+*A Party of Lovers*
 
-_Pensive_ they sit, and roll their languid eyes,
-- Nibble their toast, and cool their tea with sighs,
+*_Pensive_ they sit, and roll their languid eyes,
+* Nibble their toast, and cool their tea with sighs,
 * Or else forget the purpose of the night,
 * Forget their tea, forget their appetite.
 * See with cross'd arms they sit, ah! happy crew,
